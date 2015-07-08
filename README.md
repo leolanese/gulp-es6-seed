@@ -20,8 +20,12 @@ source-map-suppor
     
     
 ## Installation:
+```
 npm install
+```
 
 
 ## Run
+```
 gulp watch // go after and check the: es5/test.js and see the final transpiled code
+```
