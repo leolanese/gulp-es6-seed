@@ -3,9 +3,9 @@ A gulp-es6-seed with transpile ES6->ES5 using NodeJS
 
 
 ## Folder extructure:
-gulp-es6—seed/
-    es5/
-    es6/
+>gulp-es6—seed/
+>    es5/
+>    es6/
         test
     gulpfile.js
     package.json
