@@ -26,6 +26,7 @@ npm install
 
 
 ## Run
+After execution check the: es5/test.js and see the final transpiled code
 ```
-gulp watch // go after and check the: es5/test.js and see the final transpiled code
+gulp watch
 ```
